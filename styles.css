@@ -6,8 +6,8 @@
   }
 
 video {
-    width: 100% !important;
-    height: auto !important;
+    width: 100%;
+    height: auto;
   }
 
   .button {
@@ -24,7 +24,7 @@ video {
   .button:hover {
     background-color: #c2c7c7;
   }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
   video {
     width: 100%; /* Například na mobilním zařízení zobrazte obrázek ve šířce 100% */
     height: auto; /* Zajišťuje zachování poměru stran */
