@@ -11,9 +11,9 @@
     h1 { font-size: 1.5em }
   }
 
-  img {
-    max-width: 50%;
-    height: auto;
+  .small {
+    width: 320px;
+    height: 320px;
   }
 
   .button {
