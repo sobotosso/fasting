@@ -7,12 +7,6 @@
     width: 50%;
   }
 
-  h1 { font-size: 2em }
-
-  @media only screen and (max-width: 40em) {
-    h1 { font-size: 1.5em }
-  }
-
   img {
     max-width: 50%; /* Nastaví maximální šířku obrázku na 50 % šířky rodičovského prvku */
     height: auto; /* Zajišťuje zachování původního poměru stran */
