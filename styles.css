@@ -26,7 +26,7 @@ video {
   }
 @media only screen and (max-width: 600px) {
   video {
-    width: 50%; /* Například na mobilním zařízení zobrazte obrázek ve šířce 100% */
+    width: 100%; /* Například na mobilním zařízení zobrazte obrázek ve šířce 100% */
     height: auto; /* Zajišťuje zachování poměru stran */
   }
 
