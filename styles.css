@@ -61,4 +61,12 @@
     }
   }
 
+  .main {
+    max-width: 600px;
+    margin: auto;
+    background: rgb(70, 32, 240);
+    color: white;
+    padding: 10px;
+ }
+
 }
