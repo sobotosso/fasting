@@ -62,11 +62,8 @@
   }
 
   .main {
-    max-width: 400px;
+    max-width: 200px;
     margin: auto;
-    background: white;
-    color: white;
-    padding: 10px;
  }
 
 }
