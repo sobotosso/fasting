@@ -73,4 +73,28 @@ body > header {
     margin: auto;
  }
 
+ .f1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.f2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.f3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.h1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.h3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.h4 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
 }
