@@ -62,9 +62,9 @@
   }
 
   .main {
-    max-width: 600px;
+    max-width: 400px;
     margin: auto;
-    background: rgb(70, 32, 240);
+    background: white;
     color: white;
     padding: 10px;
  }
